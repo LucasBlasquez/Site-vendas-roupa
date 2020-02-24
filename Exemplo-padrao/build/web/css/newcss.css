@@ -1,0 +1,72 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 09/04/2019, 00:10:31
+    Author     : Enrique Yasuda
+*/
+.tela 
+{
+    display: table;
+    width: 100%;
+    background-color: lightcoral;
+}
+
+iframe.D{
+    background-color: lightcoral;
+}
+.iframeMenu
+{ 
+   
+    width: 14%; 
+    height: 1000px;    
+    border-top: 0;
+    border-left: 0;
+    border-bottom: 0;
+   
+}
+.iframeProduto
+{ 
+    margin-right: 25px;
+    width: 82%;
+    height: 1000px;
+    border: 0;
+}
+
+
+.btnInicial{
+    float: left;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.btnCarrinho{    
+   float: right;
+   font-size: 20px;
+   margin-top: 10px;
+
+}
+
+header {
+    width: 100%;
+    height: 90px;
+   
+    background: lightseagreen; 
+    margin-left: -10px;
+
+}
+
+ul{
+    list-style-type: none;
+    margin-right: 20px;
+
+}
+ .a{
+    font-size: 20px;
+}
+
+
+
+
